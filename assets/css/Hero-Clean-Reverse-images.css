@@ -1,0 +1,60 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+#hello {
+  font-family: cursive;
+  font-size: 50px;
+}
+
+.t1 {
+  font-family: inherit;
+  font-size: larger;
+  color: var(--bs-cyan);
+  /*text-decoration: var(--bs-pink);*/
+}
+
+#myimage:hover.overlay {
+  opacity: 1;
+}
+
+.skills {
+  font-family: monospace;
+  color: var(--bs-teal);
+  font-weight: bold;
+  text-align: center;
+}
+
+.skill_item {
+  color: plum;
+  font-family: cursive;
+  font-size: larger;
+  font-weight: bolder;
+  padding: 10px;
+}
+
+#pbar {
+  padding: 10px;
+  /*width: 25;*/
+}
+
+#progress {
+  /*margin: 20px;*/
+  margin-bottom: 50px;
+}
+
+#contact {
+  color: burlywood;
+}
+
+#detail {
+  color: var(--bs-gray);
+  font-size: x-large;
+}
+
+.contact {
+  color: var(--bs-orange);
+  /*font-size: xx-large;*/
+  font-family: sans-serif;
+}
+

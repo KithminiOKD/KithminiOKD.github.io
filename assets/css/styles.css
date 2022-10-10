@@ -1,0 +1,61 @@
+body {
+  background-color: var(--bs-black);
+}
+
+.heading {
+  font-family: cursive;
+  /*margin: 10px;*/
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  padding: 10px;
+  font-size: 50px;
+  /*border: solid;*/
+  /*border-color: var(--bs-link-hover-color);*/
+}
+
+.profile_pic {
+  padding: 10px;
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+}
+
+.p2 {
+  margin: 20px;
+  padding: 10px;
+}
+
+table {
+  margin: 0px;
+  padding: 10px;
+}
+
+.about {
+  color: var(--bs-gray-500);
+  font-size: x-large;
+}
+
+.btn {
+  background-image: url;
+}
+
+.instagram {
+  height: 50px;
+}
+
+.fb {
+  height: 40px;
+  margin: 10px;
+}
+
+.linkedin {
+  height: 40px;
+  padding: 5px;
+  margin: 5px;
+}
+
+a {
+}
+
